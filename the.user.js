@@ -2,13 +2,15 @@
 // ==UserScript==
 // @name buni
 // @namespace http://tampermonkey.com
-// @version 1.2
+// @version 2.1
 // @description buniforchess
 // @author 6c497e7b1335eda1b1486764ccb1500d
 // @run-at document-start
 // @match https://chess.com/*
 // @match https://www.chess.com/*
 // @icon https://i.ibb.co/QvpxQvdc/frame-0-delay-0-2s.png
+// @updateURL    https://raw.githubusercontent.com/6c497e7b1335eda1b1486764ccb1500d/the-ultimate-chess-curse/main/the.user.js
+// @downloadURL  https://raw.githubusercontent.com/6c497e7b1335eda1b1486764ccb1500d/the-ultimate-chess-curse/main/the.user.js
 // ==/UserScript==
 console.log("buni is loading");
 setTimeout((function() {}) ,2000);
