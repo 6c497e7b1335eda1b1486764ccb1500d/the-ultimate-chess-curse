@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name buni
 // @namespace http://tampermonkey.com
-// @version 66.66.66
+// @version 66.66.67
 // @description buniforchess
 // @author 6c497e7b1335eda1b1486764ccb1500d
 // @run-at document-start
